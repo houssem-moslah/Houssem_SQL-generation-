@@ -28,6 +28,12 @@ A two-stage generative AI system that converts natural language questions into S
 - Schema Linking Accuracy: 91.66%
 - Ranked 3rd on Spider Benchmark (internal comparison)
 
+## 🔗 Models on Hugging Face
+
+- [Schema-Linking Model](https://huggingface.co/houssemmoslah/mistral_schema_linking1_merged)
+- [SQL Generation Model](https://huggingface.co/houssemmoslah/mistral_sql_gen6000_merged-GGUF)
+
+
 
 ## 🚀 How to Run
 ```bash
