@@ -26,7 +26,7 @@ A two-stage generative AI system that converts natural language questions into S
 ## 📊 Results
 - Execution Accuracy: 83.46%
 - Schema Linking Accuracy: 91.66%
-- Ranked 3rd on Spider Benchmark (internal comparison)
+- Ranked 3rd on Spider Benchmark 
 
 ## 🔗 Models on Hugging Face
 
