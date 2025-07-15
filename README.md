@@ -28,11 +28,6 @@ A two-stage generative AI system that converts natural language questions into S
 - Schema Linking Accuracy: 91.66%
 - Ranked 3rd on Spider Benchmark (internal comparison)
 
-## 📁 Folder Structure
-See [`project_structure.md`](project_structure.md) for details.
-
-## 📚 Report
-Read the detailed report: [`Houssem_Moslah_report__F.pdf`](report/Houssem_Moslah_report__F.pdf)
 
 ## 🚀 How to Run
 ```bash
